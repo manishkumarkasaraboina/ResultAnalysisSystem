@@ -74,7 +74,7 @@ Sem 1:
 * A C compiler (e.g., GCC)
 
  🔧 Compilation:
-gcc ResultAnalysis.c -o student_result_system
+gcc ResultAnalysisSystem.c -o student_result_system
 
 
 
